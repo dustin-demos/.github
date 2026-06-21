@@ -1,13 +1,14 @@
 # dustin-demos
 
-Old projects of mine, revived and kept running. Most are small client-side demos and games I built over the years; each is preserved close to its original form, with only the minimum changes needed to run again.
+A history of things and demos I've built, old and new. Some are years old and kept running close to their original form; others are recent. Mostly small apps and games.
 
-The client-side demos are bundled and served together at **[client-demos.fly.dev](https://client-demos.fly.dev/)**.
+Many of the client-side demos are bundled and served together at **[client-demos.fly.dev](https://client-demos.fly.dev/)**.
 
 ## Demos
 
 | Demo | Year | Live | Source |
 | --- | --- | --- | --- |
+| Python Todo | 2025 | [open](https://python-todo.fly.dev/) | [repo](https://github.com/dustin-demos/python-todo) |
 | Currency Exchange | 2021 | [open](https://client-demos.fly.dev/currency/) | [repo](https://github.com/dustin-demos/currency) |
 | State Sync | 2021 | [open](https://client-demos.fly.dev/state-sync/) | [repo](https://github.com/dustin-demos/state-sync-demo) |
 | Resize | 2021 | [open](https://client-demos.fly.dev/resize/) | [repo](https://github.com/dustin-demos/resize.gg) |
@@ -16,6 +17,7 @@ The client-side demos are bundled and served together at **[client-demos.fly.dev
 | h8ball | 2018 | [open](https://client-demos.fly.dev/h8ball/) | [repo](https://github.com/dustin-demos/h8ball) |
 | Roguelike | 2016 | [open](https://client-demos.fly.dev/roguelike/) | [repo](https://github.com/dustin-demos/roguelike) |
 
+- **Python Todo** — an end-to-end typesafe todo app, from a Python FastAPI backend to a TypeScript client via OpenAPI.
 - **Currency Exchange** — a currency converter built as a job-application code challenge.
 - **State Sync** — a proof of concept for syncing state across differently-sized frames over a broadcast channel.
 - **Resize** — an aspect-ratio calculator for cropping and resizing art.
